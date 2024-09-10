@@ -3,6 +3,3 @@ input.onButtonPressed(Button.A, function () {
     basic.pause(200)
     basic.showNumber(2)
 })
-basic.forever(function () {
-	
-})
